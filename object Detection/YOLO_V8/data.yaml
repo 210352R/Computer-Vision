@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/YOLO_V8/data/train/images
+val: /content/drive/MyDrive/YOLO_V8/data/valid/images
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
